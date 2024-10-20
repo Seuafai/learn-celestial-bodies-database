@@ -246,3 +246,5 @@ pg_dump -cC --inserts -U freecodecamp universe > universe.sql
 ls --color=auto
 pg_dump -cC --inserts -U freecodecamp universe > universe.sql
 ls --color=auto
+pg_dump -cC --inserts -U freecodecamp universe > universe.sql
+ls --color=auto
